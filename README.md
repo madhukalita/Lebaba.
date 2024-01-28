@@ -1,2 +1,2 @@
-# Lebaba.
-A Girl's Fashion Website Design - Lebaba. (HTML &amp; CSS)
+# Lebaba_12-08-23
+Learn how to build a stunning and responsive E-commerce website landing page from scratch using HTML and CSS
